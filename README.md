@@ -9,3 +9,11 @@ A Go package for retrieving download links for popular Minecraft server types
 ```shell
 go get -u github.com/ciathefed/jarchive
 ```
+
+## Supported Server Types
+
+- [X] Vanilla
+- [X] Forge
+- [X] Paper
+- [X] Fabric
+- [X] Purpur
